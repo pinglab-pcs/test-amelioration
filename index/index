@@ -1,0 +1,68 @@
+<html> 
+<section class="brand-card">
+    <div class="brand-header">
+        <h1>Tibhar</h1>
+        <span class="country">🇩🇪 Allemagne</span>
+    </div>
+
+    <div class="brand-grid">
+
+        <div class="card">
+            <h2>Présentation</h2>
+
+            <p>
+                Tibhar est l'une des principales entreprises mondiales
+                spécialisées dans le tennis de table. Elle développe
+                des bois, des revêtements, des vêtements,
+                des chaussures et de nombreux accessoires destinés
+                aux joueurs de tous niveaux.
+            </p>
+        </div>
+
+        <div class="card">
+
+            <h2>Produits fabriqués</h2>
+
+            <ul>
+                <li>Bois</li>
+                <li>Revêtements</li>
+                <li>Vêtements</li>
+                <li>Chaussures</li>
+                <li>Balles</li>
+                <li>Robots</li>
+                <li>Tables</li>
+                <li>Accessoires</li>
+            </ul>
+
+        </div>
+
+        <div class="card">
+
+            <h2>Comment Tibhar gagne son chiffre d'affaires ?</h2>
+
+            <p>
+                Les revêtements représentent une part importante
+                du chiffre d'affaires car ils sont remplacés
+                régulièrement par les joueurs.
+                Les bois, vêtements et accessoires complètent
+                cette activité.
+            </p>
+
+        </div>
+
+        <div class="card">
+
+            <h2>Pourquoi la marque est-elle connue ?</h2>
+
+            <ul>
+                <li>Innovation</li>
+                <li>Sponsoring de joueurs professionnels</li>
+                <li>Distribution mondiale</li>
+                <li>Qualité des produits</li>
+            </ul>
+
+        </div>
+
+    </div>
+</section>
+</html>
